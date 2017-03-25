@@ -1,5 +1,15 @@
 # install-and-configure-RDP
 install and configure RDP for linux
+<br />
+wget https://raw.githubusercontent.com/ASeleem/install-and-configure-RDP/master/rdp.sh && sh rdp.sh
+<br />
+<h3> OR </h3>
+<br />
+curl -o rdp.sh -L https://raw.githubusercontent.com/ASeleem/install-and-configure-RDP/master/rdp.sh && sh rdp.sh
+<br />
+<h3> OR </h3>
+<br />
+<h2>Follow the instruction below : </h2>
 
 # Upgrade OS
 apt-get update -y && apt-get upgrade  -y
